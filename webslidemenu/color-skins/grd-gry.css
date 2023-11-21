@@ -1,0 +1,129 @@
+/* Desktop Main Menu Color */
+
+.wsmainfull {
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#cccccc), to(#e4e4e4));
+  background: -webkit-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -moz-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -o-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -ms-linear-gradient(left, #cccccc, #e4e4e4);
+  background: linear-gradient(left, #cccccc, #e4e4e4);
+  background-color: #cccccc;
+}
+
+.wsactive .wsmenu>.wsmenu-list {
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#cccccc), to(#e4e4e4));
+  background: -webkit-linear-gradient(top, #cccccc, #e4e4e4);
+  background: -moz-linear-gradient(top, #cccccc, #e4e4e4);
+  background: -o-linear-gradient(top, #cccccc, #e4e4e4);
+  background: -ms-linear-gradient(top, #cccccc, #e4e4e4);
+  background: linear-gradient(top, #cccccc, #e4e4e4);
+  background-color: #cccccc;
+}
+
+/* Mobile Header Color */
+
+.wsmobileheader {
+  background-color: #fff;
+}
+
+.wsmenu>.wsmenu-list>li>a {
+  color: #313131;
+  border-right: 1px solid rgba(0, 0, 0, 0.10);
+}
+
+.wsmenu>.wsmenu-list>li>a .wsarrow:after {
+  border-top-color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>a:hover .wsarrow:after {
+  border-top-color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>a.active .wsarrow:after {
+  border-top-color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li:hover>a .wsarrow:after {
+  border-top-color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>a>i {
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>a.active i {
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li:hover>a>i {
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>a:hover i {
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>.wsmegamenu .menu_form input[type="submit"] {
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#cccccc), to(#e4e4e4));
+  background: -webkit-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -moz-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -o-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -ms-linear-gradient(left, #cccccc, #e4e4e4);
+  background: linear-gradient(left, #cccccc, #e4e4e4);
+  background-color: #cccccc;
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>.wsmegamenu .menu_form input[type="button"] {
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#cccccc), to(#e4e4e4));
+  background: -webkit-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -moz-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -o-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -ms-linear-gradient(left, #cccccc, #e4e4e4);
+  background: linear-gradient(left, #cccccc, #e4e4e4);
+  background-color: #cccccc;
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>a.active {
+  background-color: rgba(0, 0, 0, 0.1);
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li:hover>a {
+  background-color: rgba(0, 0, 0, 0.1);
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>ul.sub-menu>li:hover>a {
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#cccccc), to(#e4e4e4));
+  background: -webkit-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -moz-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -o-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -ms-linear-gradient(left, #cccccc, #e4e4e4);
+  background: linear-gradient(left, #cccccc, #e4e4e4);
+  background-color: #cccccc;
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>ul.sub-menu>li>ul.sub-menu>li:hover>a {
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#cccccc), to(#e4e4e4));
+  background: -webkit-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -moz-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -o-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -ms-linear-gradient(left, #cccccc, #e4e4e4);
+  background: linear-gradient(left, #cccccc, #e4e4e4);
+  background-color: #cccccc;
+  color: #313131;
+}
+
+.wsmenu>.wsmenu-list>li>ul.sub-menu>li>ul.sub-menu>li>ul.sub-menu>li:hover a {
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#cccccc), to(#e4e4e4));
+  background: -webkit-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -moz-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -o-linear-gradient(left, #cccccc, #e4e4e4);
+  background: -ms-linear-gradient(left, #cccccc, #e4e4e4);
+  background: linear-gradient(left, #cccccc, #e4e4e4);
+  background-color: #cccccc;
+  color: #313131;
+}
